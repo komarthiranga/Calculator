@@ -1,0 +1,13 @@
+.cal-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.cal-row__header {
+    display: block;
+    border: 2px solid #282c34;
+    background: #282c34;
+    margin: 5px;
+}
